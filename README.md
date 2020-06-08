@@ -3,7 +3,7 @@ As part of my "code everyday" challenge, I aim to push at least one line of code
 
 **Day 1**: _6 Jun 2020_ FIT1045 Assignment 2020S1
 
-**Day 3**: _7 Jun 2020_
+**Day 3**: _7 Jun 2020_ 3 Beginner projects from Angela Yu's Udemy Course ([ios-practice](https://github.com/JasmineEllaine/ios-practice))
 
 **Day 4**: _8 Jun 2020_
 
