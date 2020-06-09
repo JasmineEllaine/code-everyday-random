@@ -13,7 +13,7 @@ As part of my "code everyday" challenge, I aim to push at least one line of code
 
 **Day 4**: _8 Jun 2020_ Notes on Swift: [The Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) ([ios-practice](https://github.com/JasmineEllaine/ios-practice/commit/b32cc0070191041395362216123bba648d271785)), [Stanford Lecture 1](https://www.youtube.com/watch?v=jbtqIBpUG7g&feature=youtu.be)
 
-**Day 5**: _9 Jun 2020_
+**Day 5**: _9 Jun 2020_ [Stanford Lecture 2](https://www.youtube.com/watch?v=4GjXq2Sr55Q&feature=youtu.be)
 
 **Day 6**: _10 Jun 2020_
 
